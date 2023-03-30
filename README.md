@@ -1,6 +1,7 @@
 # Presentacion de Priscila Jofre
 ## Holaa, soy Priscila Jofre tengo 20 años y este es mi segundo año estudiando la carrera Licenciatura en Informatica.
 ![Priscila](./assets/SanJuanImagen.jpeg)
+Les dejo mi [Instagram](blank:#https://www.instagram.com/priscilajofr_/) por si me quieren seguir.
 
 Me encanta leer libros, manhwas y ver series de ciencia ficcion o distopicas. 
 ### Mi top 3 series favoritas son:
